@@ -1,0 +1,12 @@
+server:
+  port: 8761
+
+eureka:
+  client:
+    register-with-eureka: false  # The server does not register itself
+    fetch-registry: false        # The server does not query the registry
+  server:
+    enable-self-preservation: false  # Optional: Disable self-preservation during testing
+spring:
+  application:
+    name: feign-eureka-server  # Logical name of the service (appears in Eureka)

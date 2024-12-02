@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client-service/client-service.iml" filepath="$PROJECT_DIR$/client-service/client-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/feign.iml" filepath="$PROJECT_DIR$/.idea/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-eureka-server/feign-eureka-server.iml" filepath="$PROJECT_DIR$/feign-eureka-server/feign-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rank-service/rank-service.iml" filepath="$PROJECT_DIR$/rank-service/rank-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
